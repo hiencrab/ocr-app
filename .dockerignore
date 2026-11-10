@@ -1,0 +1,8 @@
+poppler/
+uploads/
+__pycache__/
+*.pyc
+.claude/
+debug_ocr.py
+batch_ocr.py
+main.py
