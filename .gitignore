@@ -31,3 +31,6 @@ Thumbs.db
 
 # Large binary dependencies (install locally)
 poppler/
+
+# Claude Code
+.claude/
